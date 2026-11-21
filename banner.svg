@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+<defs>
+ <linearGradient id="bg" x1="70" y1="20" x2="1150" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#101a30"/><stop offset=".58" stop-color="#111a2a"/><stop offset="1" stop-color="#102c32"/></linearGradient>
+ <linearGradient id="line" x1="205" y1="40" x2="1034" y2="331" gradientUnits="userSpaceOnUse"><stop stop-color="#65E6D2"/><stop offset=".55" stop-color="#719BFF"/><stop offset="1" stop-color="#B391FF"/></linearGradient>
+ <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 220 -480 0 1010 44)" gradientUnits="userSpaceOnUse"><stop stop-color="#3D9290" stop-opacity=".28"/><stop offset="1" stop-color="#3D9290" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/><rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+<circle cx="1000" cy="176" r="116" stroke="#A4B9E7" stroke-opacity=".11"/><circle cx="1000" cy="176" r="83" stroke="#A4B9E7" stroke-opacity=".12"/><circle cx="1000" cy="176" r="49" stroke="#65E6D2" stroke-opacity=".2"/>
+<path d="M820 238c47-33 73-96 119-96 33 0 44 31 66 31 28 0 47-51 96-78" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/><circle cx="939" cy="142" r="5" fill="#65E6D2"/><circle cx="1005" cy="173" r="5" fill="#719BFF"/><circle cx="1101" cy="95" r="5" fill="#B391FF"/>
+<rect x="72" y="59" width="8" height="241" rx="4" fill="url(#line)"/>
+<text x="110" y="99" fill="#65E6D2" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">ARTIFICIAL INTELLIGENCE  /  DEVELOPER</text>
+<text x="106" y="184" fill="#F4F7FF" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="750" letter-spacing="-1.5">Shehab Mahmoud Elsayed</text>
+<text x="110" y="230" fill="#B9C7DE" font-family="Segoe UI,Arial,sans-serif" font-size="22">AI student · Python, C++, Java · Building useful software</text>
+<rect x="110" y="266" width="176" height="30" rx="15" fill="#65E6D2" fill-opacity=".12" stroke="#65E6D2" stroke-opacity=".45"/><text x="129" y="286" fill="#8BF0DE" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="650">BUILD  ·  LEARN  ·  SHIP</text>
+<path d="M28 0h1144a28 28 0 0 1 28 28v3H0v-3A28 28 0 0 1 28 0Z" fill="url(#line)"/>
+</svg>
